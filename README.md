@@ -17,7 +17,7 @@ If you want to help by testing or contributing, please contact me on Discord: ks
 The module can be installed into a existing Klipper installation with an install script. 
 
     cd ~
-    git clone https://github.com/ksanislo/klipper-pa_cal.git
+    git clone https://github.com/SlevinSkrreeek/klipper-pa_cal.git
     cd klipper-pa_cal
     ./install-pa_cal.sh
 
